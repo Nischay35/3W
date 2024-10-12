@@ -1,0 +1,39 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 5px;
+  padding: 4px;
+  border-radius: 2px;
+  background-color: #ffffff;
+}
+.forms {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 4px;
+  padding: 4px;
+}
+.heading {
+  color: #000000;
+  font-family: 'Roboto';
+  font-size: 20px;
+  text-align: left;
+  margin: 4px;
+}
+.label {
+  color: #323f4b;
+  font-family: 'Roboto';
+  font-size: 17px;
+  margin: 4px;
+}
+.button {
+  color: #ffffff;
+  font-family: 'Roboto';
+  background-color: blue;
+  border-width: 0px;
+  border-radius: 4px;
+  padding: 4px;
+}

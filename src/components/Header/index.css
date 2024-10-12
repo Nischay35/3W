@@ -1,0 +1,27 @@
+.nav-items {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin: 6px;
+  padding: 5px;
+}
+.navbar {
+  background-color: #000000;
+  margin: 5px;
+  padding: 4px;
+}
+.heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 14px;
+  margin: 5px;
+}
+.select {
+  background-color: transparent;
+}
+.button {
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Roboto';
+}
